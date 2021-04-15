@@ -1,0 +1,6 @@
+site_name: financeApi
+
+nav:
+ - Home: index.md
+ - Funcs: models.md
+
